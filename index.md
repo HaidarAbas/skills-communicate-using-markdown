@@ -10,7 +10,7 @@ String unit = "meters";
 ```
 
 Todo before MH Wilds:
-- [] Slay Fatalis
-- [] Slay AT Vel
-- [] Slay AT Nam
-- [] Watch the sun set on a grateful universe
+- [ ] Slay Fatalis
+- [x] Slay AT Vel
+- [ ] Slay AT Nam
+- [ ] Watch the sun set on a grateful universe
